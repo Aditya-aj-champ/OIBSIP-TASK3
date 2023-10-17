@@ -142,7 +142,7 @@ p{
         justify-content: space-between;
         background:#edeef0;
         border-radius: 30px;
-        margin-left:-12px;
+        margin-left:12px;
         margin-bottom: 10px;
         width: fit-content;
     }
@@ -206,17 +206,17 @@ p{
         
     }
     #list{
-        margin-left: -20px;
+        margin-left: -15px;
         margin-right: -10px;
     }
 
     ul li span{
         position: absolute;
         right:0;
-        top: 0px;
+        top: 0;
         width: 35px;
         height: 35px;
-        font-size: 10px;
+        font-size: 8px;
         color: #ee0808;
         text-align: center;
         border-radius: 50%;
