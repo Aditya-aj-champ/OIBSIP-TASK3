@@ -205,10 +205,10 @@ p{
         position: relative;
         
     }
-    #list{
+/*     #list{
         margin-left: -26px;
         margin-right: -10px;
-    }
+    } */
 
     ul li span{
         position: absolute;
