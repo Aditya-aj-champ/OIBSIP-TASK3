@@ -159,12 +159,12 @@ p{
     button{
         border: none;
         outline: none;
-        padding: 9px 14px;
+        padding: 16px 40px;
         background:#ff5945;
         color: #fff;
         font-size: 12px;
         cursor: pointer;
-        border-radius: 50%;
+        border-radius: 50px;
         /* margin: 5px; */
         
     }
@@ -172,7 +172,7 @@ p{
     .todo{
         background-color: #fff;
         width: 95%;
-        /* max-width: 540px; */
+        max-width: 540px;
         margin: 100px 10px 2px 10px;
         padding: 40px 30px 70px 30px;
         border-radius: 10px;
