@@ -213,10 +213,10 @@ p{
     ul li span{
         position: absolute;
         right:0;
-        top: 5px;
-        width: 35px;
-        height: 35px;
-        font-size: 15px;
+        top: 8px;
+        width: 40px;
+        height:40px;
+        font-size: 10px;
         color: #ee0808;
         text-align: center;
         border-radius: 50%;
