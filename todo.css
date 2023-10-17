@@ -159,12 +159,12 @@ p{
     button{
         border: none;
         outline: none;
-        padding: 12px 18px;
+        padding: 9px 14px;
         background:#ff5945;
         color: #fff;
         font-size: 12px;
         cursor: pointer;
-        border-radius: 42px;
+        border-radius: 50%;
         /* margin: 5px; */
         
     }
